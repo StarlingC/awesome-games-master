@@ -44,7 +44,7 @@ Icon|Meaning
 
 ### Generating shops / towns / characters
 * [Town generator](https://eigengrausgenerator.com/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/join/eigengrausgenerator) :game_die: [:unlock:](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/) A generator for town buildings and characters with narration.
-[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
+* [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 * [DnD 5e / Coriolis store generator](http://dndstores.azurewebsites.net/index.html) - :game_die: Generates the stock and prices of various stores based on city size.
 * [donjon random generators](http://donjon.bin.sh/) - :game_die: Generators for all sorts including landmass, names, dungeons, calendars, shops, etc.
 * [5e magic shop generator](https://5emagic.shop/generate) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/5emagic) :game_die: :dragon: Generates stock for magic shops with opinionated pricing. Also includes other tools such as travel time calculator and teleportation circle generator.
