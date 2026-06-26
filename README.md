@@ -63,6 +63,7 @@ Icon|Meaning
 * [Fantasy card generator](https://crobi.github.io/rpg-cards) - [:unlock:](https://github.com/crobi/rpg-cards) A tool for generating printable cards in easy to read formats for spells, monster stats, etc.
 * [Fantasy calendar](https://app.fantasy-calendar.com/) - :money_with_wings: [:unlock:](https://github.com/fantasycalendar/Fantasy-Calendar) Create a detailed calendar and track time with a nice interface.
 * [Perchance](https://perchance.org/welcome) - Create your own random generators.
+* [ScryRPG](https://scryrpg.com/) - :money_with_wings: A campaign manager for D&D and other tabletop RPGs with shared party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar.
 
 ### Minor generators
 * [Ancient quests](http://ancientquests.com/) - Short written descriptions for a number of things: worlds, rooms, paintings, factions, history, items, effects, etc.
