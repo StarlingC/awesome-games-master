@@ -64,6 +64,7 @@ Icon|Meaning
 * [Fantasy calendar](https://app.fantasy-calendar.com/) - :money_with_wings: [:unlock:](https://github.com/fantasycalendar/Fantasy-Calendar) Create a detailed calendar and track time with a nice interface.
 * [Perchance](https://perchance.org/welcome) - Create your own random generators.
 * [ScryRPG](https://scryrpg.com/) - :money_with_wings: A campaign manager for D&D and other tabletop RPGs with shared party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar.
+* [Mordex](https://mordex.world/) - A free, browser-based all-in-one campaign manager: a connected world of NPCs, factions, locations and lore, plus a built-in VTT, combat tracker, session prep and shareable recaps.
 
 ### Minor generators
 * [Ancient quests](http://ancientquests.com/) - Short written descriptions for a number of things: worlds, rooms, paintings, factions, history, items, effects, etc.
