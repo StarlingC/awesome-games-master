@@ -54,6 +54,7 @@ Icon|Meaning
 * [Fantasy art](https://www.pinterest.co.uk/FantasyPicsInc/pathfinder-dd-dnd-35-5e-5th-ed-fantasy-d20-pfrpg-r/) - A board of thousands of character art designs in similar styles.
 * [Reddit character art](https://www.reddit.com/r/characterdrawing) - A subreddit for character art designs.
 * [The monsters know](https://www.themonstersknow.com/) - :dragon: A blog that explains the motivations and battle tactics of most of the DnD 5e monsters.
+* [Kenji's Game Master Tools](https://cros.land/kenjis-dungeon-master-tools/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/c/ai_rpg_tookit) :money_with_wings: :game_die: :dragon: AI-powered generators for statblocks, encounters, dungeons, NPCs, magic items and settings, plus chase, loot and inventory tools. Free to use, with daily limits on generation.
 
 ### Utilities
 * [World Anvil](https://www.worldanvil.com/) - :money_with_wings: A tool for managing your world and keeping track of things in your campaign.
