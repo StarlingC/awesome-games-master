@@ -79,6 +79,7 @@ Icon|Meaning
 * [Not another tavern generator](https://thecoppersanctum.github.io/thecoppersanctum/taverns.html) - More detailed tavern with some settings to tweak.
 * [Trap generator](https://www.5thdnd.com/dungeon-trap) - Imaginative and clever trap ideas.
 * [Constellation generator](https://www.darkestofnights.com/gen_cons.php) - Generates constellation with image and star names.
+* [NamesPlease](https://namesplease.app/) - :game_die: Name generators for towns, cities, kingdoms, taverns, ships, rivers, mountains and swords, plus character names. Runs in the browser, no sign-up.
 
 ## Battle / encounter maps
 * [Dungeondraft](https://dungeondraft.net/) - :moneybag: :computer: A dungeon / encounter builder with customisable assets.
