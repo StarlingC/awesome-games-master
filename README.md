@@ -17,6 +17,7 @@ Icon|Meaning
 :game_die:|Random generation
 :dragon:|Content is specific to DnD
 :unlock:|Open source (code is public and freely available)
+:robot:|Significant use of generative AI
 
 ## Contents
 * [World building](#world-building)
@@ -44,17 +45,15 @@ Icon|Meaning
 
 ### Generating shops / towns / characters
 * [Town generator](https://eigengrausgenerator.com/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/join/eigengrausgenerator) :game_die: [:unlock:](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/) A generator for town buildings and characters with narration.
-* [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
+* [Auferet](https://auferet.com) :robot: - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 * [DnD 5e / Coriolis store generator](http://dndstores.azurewebsites.net/index.html) - :game_die: Generates the stock and prices of various stores based on city size.
 * [donjon random generators](http://donjon.bin.sh/) - :game_die: Generators for all sorts including landmass, names, dungeons, calendars, shops, etc.
 * [5e magic shop generator](https://5emagic.shop/generate) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/5emagic) :game_die: :dragon: Generates stock for magic shops with opinionated pricing. Also includes other tools such as travel time calculator and teleportation circle generator.
 * [Token maker](https://rolladvantage.com/tokenstamp/) - A simple tool for quickly generating tokens from images.
 * [Dialects archive](https://www.dialectsarchive.com/) - A library of thousands of recordings of different accents.
-* [Character art](https://www.pinterest.co.uk/efilean/) - A pinterest page with boards of character art organised by race.
-* [Fantasy art](https://www.pinterest.co.uk/FantasyPicsInc/pathfinder-dd-dnd-35-5e-5th-ed-fantasy-d20-pfrpg-r/) - A board of thousands of character art designs in similar styles.
 * [Reddit character art](https://www.reddit.com/r/characterdrawing) - A subreddit for character art designs.
 * [The monsters know](https://www.themonstersknow.com/) - :dragon: A blog that explains the motivations and battle tactics of most of the DnD 5e monsters.
-* [Kenji's Game Master Tools](https://cros.land/kenjis-dungeon-master-tools/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/c/ai_rpg_tookit) :money_with_wings: :game_die: :dragon: AI-powered generators for statblocks, encounters, dungeons, NPCs, magic items and settings, plus chase, loot and inventory tools. Free to use, with daily limits on generation.
+* [Kenji's Game Master Tools](https://cros.land/kenjis-dungeon-master-tools/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/c/ai_rpg_tookit) :robot: :money_with_wings: :game_die: :dragon: AI-powered generators for statblocks, encounters, dungeons, NPCs, magic items and settings, plus chase, loot and inventory tools. Free to use, with daily limits on generation.
 
 ### Utilities
 * [World Anvil](https://www.worldanvil.com/) - :money_with_wings: A tool for managing your world and keeping track of things in your campaign.
