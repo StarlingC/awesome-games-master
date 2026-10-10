@@ -104,7 +104,7 @@ Icon|Meaning
 ### Audio
 * [Syrinscape](https://syrinscape.com/) - :moneybag: :money_with_wings: :computer: A sound system application that allows dynamic layering of different sounds.
 * [Tabletop Audio](https://tabletopaudio.com/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/tabletopaudio) A library of 10 minute soundtracks for different ambiences and sound effects.
-* [Onion Board](https://onion-alien.github.io/onion-board/) - :computer: A free Windows soundboard for running games over Discord: pads with hotkeys play music, ambience and effects straight into your mic, with loops, per-sound volume and fades, and a phone remote so you can trigger sounds away from the keyboard.
+* [Onion Board](https://onion-alien.github.io/onion-board/) - :computer: [:unlock:](https://github.com/Onion-Alien/onion-board) A free Windows soundboard for running games over Discord: pads with hotkeys play music, ambience and effects straight into your mic, with loops, per-sound volume and fades, and a phone remote so you can trigger sounds away from the keyboard.
 
 ### Encounter planning / running
 * [Kobold fight club](https://kobold.club/fight/#/encounter-builder) - :game_die: :dragon: [:unlock:](https://github.com/Asmor/5e-monsters) A DnD 5e encounter builder.
