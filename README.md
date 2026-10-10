@@ -65,6 +65,7 @@ Icon|Meaning
 * [Perchance](https://perchance.org/welcome) - Create your own random generators.
 * [ScryRPG](https://scryrpg.com/) - :money_with_wings: A campaign manager for D&D and other tabletop RPGs with shared party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar.
 * [Mordex](https://mordex.world/) - :money_with_wings: A free, browser-based all-in-one campaign manager: a connected world of NPCs, factions, locations and lore, plus a built-in VTT, combat tracker, session prep and shareable recaps.
+* [Easy Almanac](https://easyalmanac.com/) - :robot: :money_with_wings: A campaign manager that keeps one shared record for the whole table: linked sessions, NPCs and places, player notes the GM approves, and flags when notes contradict each other.
 
 ### Minor generators
 * [Ancient quests](http://ancientquests.com/) - Short written descriptions for a number of things: worlds, rooms, paintings, factions, history, items, effects, etc.
