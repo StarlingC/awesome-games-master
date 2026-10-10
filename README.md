@@ -13,7 +13,7 @@ Icon|Meaning
 :moneybag:|A paid product
 :money_with_wings:|A freemium or subscription model
 ![Patreon](./images/patreon.svg)|The creator has a patreon page
-<img src="/images/kofi.png" height="14" alt="Kofi">|The creator
+<img src="/images/kofi.png" height="14" alt="Kofi">|The creator as ha kofi page
 :computer:|Includes downloadable software
 :game_die:|Random generation
 :dragon:|Content is specific to DnD
