@@ -13,7 +13,7 @@ Icon|Meaning
 :moneybag:|A paid product
 :money_with_wings:|A freemium or subscription model
 ![Patreon](./images/patreon.svg)|The creator has a patreon page
-![Kofi](./images/kofi.png)|The creator has a kofi page
+<img src="/images/kofi.png" height="14" alt="Kofi">|The creator
 :computer:|Includes downloadable software
 :game_die:|Random generation
 :dragon:|Content is specific to DnD
@@ -65,7 +65,7 @@ Icon|Meaning
 * [Scabard](https://www.scabard.com/pbs/) - :money_with_wings: Scabard is a rules neutral RPG campaign manager and planner. They have campaigns for D&D (various versions), Pathfinder, Traveller, Savage Worlds, Warhammer, and a host of others.
 * [ScryRPG](https://scryrpg.com/) - :robot: :money_with_wings: A campaign manager for D&D and other tabletop RPGs with shared party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar.
 * [Six Axes](https://www.six-axes.com/) - :robot: Six Axes turns a recorded tabletop session into the record most groups never keep. It captures the game by voice, transcribes it, and generates a session recap, an automated campaign wiki (places, NPCs, lore, and factions), and a log of every roll.
-* [The Goblin's Notebook](https://www.the-goblin.net/) - [![Kofi](./images/kofi.png)](https://ko-fi.com/goblinsnotebook) A single-pane view of your tabletop RPG campaign notes for pre-session planning, in-session note taking and post-session recapping.
+* [The Goblin's Notebook](https://www.the-goblin.net/) - [<img src="/images/kofi.png" height="14" alt="Kofi">](https://ko-fi.com/goblinsnotebook) A single-pane view of your tabletop RPG campaign notes for pre-session planning, in-session note taking and post-session recapping.
 * [Trails Weaver](https://www.trailsweaver.com/) - :money_with_wings: Visual worldbuilding app and wiki for game masters and writers, with an infinite canvas, interactive maps, family trees, and a relationship graph.
 * [World Anvil](https://www.worldanvil.com/) - :money_with_wings: A tool for managing your world and keeping track of things in your campaign.
 
