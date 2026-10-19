@@ -134,6 +134,7 @@ Icon|Meaning
 
 #### Misc handouts
 * [Coat of Arms Maker](https://coamaker.com/) - :money_with_wings: Coat of Arms Maker is a freemium drag & drop generator for creating fantasy artwork like family crests, medieval banners, coins, and tokens.
+* [RelationCanvas](https://relationcanvas.com/) - Make a relationship chart of NPCs and party members to hand to players: each arrow carries how one character sees another, and the chart exports to PNG or SVG or opens as a read-only share link.
 
 ## Running the game
 
