@@ -104,6 +104,7 @@ Icon|Meaning
 * [Not another tavern generator](https://thecoppersanctum.github.io/thecoppersanctum/taverns.html) - More detailed tavern with some settings to tweak.
 * [Spell book generator](https://5emagic.shop/spellbook/generate) - Generate a random level appropriate spell book.
 * [Tavern generator](https://www.herebetaverns.com/tavern-generator) - Random taverns with floorplan, menu, and staff.
+- [The Referee's Data Kit: Free Sampler Workbench](https://hitocase.itch.io/rdk-sampler-workbench) - 🤖 Browse nine system-agnostic random tables, filter entries and select existing results in your browser; includes a link to GM-use notes. Free to use.
 * [Trap generator](https://www.5thdnd.com/dungeon-trap) - Imaginative and clever trap ideas.
 * [Perchance](https://perchance.org/welcome) - Create your own random generators.
 * [Chartopia](https://chartopia.d12dev.com/) - A website where you can create, share, and find random tables and generators for role-playing games.
