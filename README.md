@@ -86,6 +86,7 @@ Icon|Meaning
 
 #### Name generators
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Names for all your fantasy characters.
+* [Name Awesome](https://nameawesome.com/) - Real U.S. first names by decade since 1880, with meanings. Handy for period NPC names in modern and historical settings.
 * [NamesPlease](https://namesplease.app/) - :game_die: Name generators for towns, cities, kingdoms, taverns, ships, rivers, mountains and swords, plus character names. Runs in the browser, no sign-up.
 * [Party group name generator](https://www.chaosgen.com/fantasy/party-name) - Because sometimes it's hard coming up with a good name.
 * [Random book generator](https://www.dndspeak.com/2019/06/11/random-book-generator/) - A random book title and synopsis.
