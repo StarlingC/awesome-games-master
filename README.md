@@ -62,6 +62,7 @@ Icon|Meaning
 * [Obsidian](https://obsidian.md/) - :computer: A powerful knowledge base that operates on a local folder of plain text Markdown files.
 * [Realm Works](https://www.wolflair.com/realmworks/) - :money_with_wings: Realm Works is a database software and worldbuilding tool for roleplaying games.
 * [Realmweaver](https://realmweaver.io/) - :money_with_wings: :robot: An AI creative director that helps writers, game masters, and world-builders develop deep, consistent worlds through guided sessions, all organized into a living wiki.
+* [RelationCanvas](https://relationcanvas.com/) - Make a relationship chart of NPCs and party members: each arrow carries how one character sees another, and the chart exports to PNG or SVG or opens as a read-only share link.
 * [Scabard](https://www.scabard.com/pbs/) - :money_with_wings: Scabard is a rules neutral RPG campaign manager and planner. They have campaigns for D&D (various versions), Pathfinder, Traveller, Savage Worlds, Warhammer, and a host of others.
 * [ScryRPG](https://scryrpg.com/) - :robot: :money_with_wings: A campaign manager for D&D and other tabletop RPGs with shared party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar.
 * [Six Axes](https://www.six-axes.com/) - :robot: Six Axes turns a recorded tabletop session into the record most groups never keep. It captures the game by voice, transcribes it, and generates a session recap, an automated campaign wiki (places, NPCs, lore, and factions), and a log of every roll.
