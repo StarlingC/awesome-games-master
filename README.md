@@ -184,6 +184,7 @@ Icon|Meaning
 
 ### Encounter planning / running
 * [Beyond Tabletop](https://www.beyondtabletop.com/) - Beyond Tabletop is a set of tools for RPG players with easy-to-use online character sheets and maps. Subscription-free and designed to be used on all devices online. Currently offering a battle map and character sheets for Pathfinder and D&D 5e.
+* [D20 Desk](https://d20desk.com) - :computer: :dragon: Free web (and Mac) combat / encounter desk for D&D and other TTRPGs.
 * [DiceRight](https://www.diceright.com/) - DiceRight is an online platform for playing tabletop games. It tracks game aspects like turns and damage to speed up gameplay and eliminate tedious elements.
 * [DnD Beyond](https://www.dndbeyond.com/) - :money_with_wings: :dragon: The official DnD character creation and management tool.
 * [Improved initiative](https://www.improved-initiative.com/) - [![Patreon](./images/patreon.svg)](https://www.patreon.com/improvedinitiative) :dragon: A DnD 5e initiative tracker.
