@@ -137,6 +137,7 @@ Icon|Meaning
 
 #### Misc handouts
 * [Coat of Arms Maker](https://coamaker.com/) - :money_with_wings: Coat of Arms Maker is a freemium drag & drop generator for creating fantasy artwork like family crests, medieval banners, coins, and tokens.
+* [Free DnD Session Prep Sheet](https://github.com/theodorecreatesco/free-dnd-session-prep-sheet) - :unlock: :dragon: One-page printable and fillable session prep sheet (A4 + US Letter) for DMs: strong start, likely scenes, NPCs, secrets and stop point.
 
 ## Running the game
 
