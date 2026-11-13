@@ -195,6 +195,7 @@ Icon|Meaning
 ## Miscellaneous
 * [AI Master DnD](https://dnd-dm.ru/ii-master-dnd/) - :robot: :money_with_wings: :dragon: Russian-language AI game master for D&D 5e that runs games in Telegram, with dice rolled by the rules and persistent world state; solo play without a group.
 * [Auferet](https://auferet.com) - :robot: AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
+* [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - A curated list of worldbuilding wikis, map makers, name and language generators, timeline tools, and AI writing suites for keeping a setting's lore consistent.
 * [Dialects archive](https://www.dialectsarchive.com/) - A library of thousands of recordings of different accents.
 
 ## Subreddits
