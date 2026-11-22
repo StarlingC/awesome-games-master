@@ -60,6 +60,7 @@ Icon|Meaning
 * [Mordex](https://mordex.world/) - :money_with_wings: A free, browser-based all-in-one campaign manager: a connected world of NPCs, factions, locations and lore, plus a built-in VTT, combat tracker, session prep and shareable recaps.
 * [Obsidian Portal](https://www.obsidianportal.com/) - :money_with_wings: Obsidian Portal takes the pain out of managing your tabletop RPG.
 * [Obsidian](https://obsidian.md/) - :computer: A powerful knowledge base that operates on a local folder of plain text Markdown files.
+* [QuestSeat](https://questseat.com/) - :money_with_wings: Subscription-based campaign operations for paid game masters, including public pages, session schedules, player invitations, and payment tracking. For adults in Australia and the United States.
 * [Realm Works](https://www.wolflair.com/realmworks/) - :money_with_wings: Realm Works is a database software and worldbuilding tool for roleplaying games.
 * [Realmweaver](https://realmweaver.io/) - :money_with_wings: :robot: An AI creative director that helps writers, game masters, and world-builders develop deep, consistent worlds through guided sessions, all organized into a living wiki.
 * [RelationCanvas](https://relationcanvas.com/) - Make a relationship chart of NPCs and party members: each arrow carries how one character sees another, and the chart exports to PNG or SVG or opens as a read-only share link.
