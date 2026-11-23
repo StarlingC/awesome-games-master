@@ -92,6 +92,7 @@ Icon|Meaning
 * [Random book generator](https://www.dndspeak.com/2019/06/11/random-book-generator/) - A random book title and synopsis.
 
 #### NPC generators
+* [AvatarSay Fantasy NPC Generator](https://avatarsay.com/fantasy-npc-generator) - :game_die: :robot: :money_with_wings: [:unlock:](https://github.com/fourgit/avatarsay-mcp) Roll deterministic fantasy NPC names, personality traits, quirks, plot hooks, GM secrets, and spoken lines in your browser with no login, export Foundry VTT actors or SillyTavern V2 character cards via its open-source MCP server, and optionally generate portraits, MP3 voice barks, or lip-synced MP4 clips.
 * [Character generator](https://tetra-cube.com/dnd/dnd-char-gen.html) - :game_die: :dragon: Generates random DnD 5e characters from the options in the sourcebooks with character art.
 * [Statblock builder](https://tetra-cube.com/dnd/dnd-statblock.html) - :dragon: A DnD custom monster stat block generator in the style of the source books.
 
