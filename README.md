@@ -29,6 +29,7 @@ Icon|Meaning
     * [Name generators](#name-generators)
     * [NPC generators](#npc-generators)
     * [Misc generators](#misc-generators)
+  * [Languages](#languages)
 * [Session prep](#session-prep)
   * [Battle / encounter maps](#battle--encounter-maps)
   * [Handout helpers](#handout-helpers)
@@ -108,6 +109,9 @@ Icon|Meaning
 * [Trap generator](https://www.5thdnd.com/dungeon-trap) - Imaginative and clever trap ideas.
 * [Perchance](https://perchance.org/welcome) - Create your own random generators.
 * [Chartopia](https://chartopia.d12dev.com/) - A website where you can create, share, and find random tables and generators for role-playing games.
+
+### Languages
+* [Lemula](https://lemula.app) - :money_with_wings: Language builder for game worlds: sound changes between stages, borrowings between languages, and a public dictionary for the table.
 
 ## Session prep
 
